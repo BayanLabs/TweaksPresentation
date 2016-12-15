@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
   s.source_files  = "TweaksPresentation/*.{h,m}"
   s.requires_arc = true
 
-  s.dependency "Tweaks", "~> 2.0"
+  s.dependency "Tweaks", "~> 2.1"
 
 end
